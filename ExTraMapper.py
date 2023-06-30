@@ -3,7 +3,8 @@
 ## ExtraMapper python 3 and later version 
 ## Original version written by Ferhat Ay
 ## Converted by Abhijit Chakraborty
-
+import sys
+sys.path.insert(1,'/content/')
 
 import argparse
 import sys
